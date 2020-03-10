@@ -1,0 +1,12 @@
+{
+    "name": "nokobo/loft-homework-05",
+    "authors": [
+        {
+            "name": "Kurmanbek Nurmatov",
+            "email": "nokobo.prog@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
